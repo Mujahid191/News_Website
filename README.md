@@ -32,3 +32,4 @@ Assign specific roles and permissions to users or admins to control access to di
 
 #### Backend Pagination
 Implemented pagination for user-friendly navigation in the admin panel.
+
